@@ -1,3 +1,4 @@
+noRandomlyColoredTags: true
 version: 1
 imports: []
 schemas:
